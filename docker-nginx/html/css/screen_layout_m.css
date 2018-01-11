@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+header {height: 200px; background: url(../images/banner_m.jpg) no-repeat 90% 0px;}
+header a.logo {
+    width: 100px;
+    height: 100px;
+    top: 20px;
+    right: 20px;
+    background-image: url(../images/logo_m.png)
+}
+
+nav {top: 200px;}
+nav a {margin-right: 20px;}
+
+.news_container {padding: 0px 20px 15px 20px;}
+.news_container .news {background-position: 0px 0px;}
+.news_container .news .content {padding: 70px 30px 0px 0px;}
+body {background-image: none;}
